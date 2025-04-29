@@ -1,17 +1,13 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+[`Novel`](https://github.com/steven-tey/novel) is an open-source Notion-style WYSIWYG editor with AI-powered autocompletions.
+
+This repo is [`Novel`](https://github.com/steven-tey/novel) editor template, based on [`React 19`](https://react.dev/reference/react), [`Tailwind css 4`](https://tailwindcss.com/docs), [`Shadcn UI`](https://ui.shadcn.com/docs), and [`Nextjs 15`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+pnpm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
